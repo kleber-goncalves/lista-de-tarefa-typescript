@@ -12,7 +12,7 @@ Este projeto é uma aplicação de lista de tarefas desenvolvida em TypeScript. 
 
 ## Deploy
 
-A aplicação está disponível para acesso online através do [Vercel](https://vercel.com). Você pode visualizar e interagir com a lista de tarefas diretamente no navegador.
+A aplicação está disponível para acesso online através do https://lista-de-tarefa-typescript.vercel.app/. Você pode visualizar e interagir com a lista de tarefas diretamente no navegador.
 
 ## Como Executar o Projeto
 
