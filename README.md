@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação de lista de tarefas desenvolvida em TypeScript. O objetivo é fornecer uma interface simples e eficiente para gerenciar suas tarefas diárias.
 
+![Lista de Tarefas](to-list.png)
+
 ## Tecnologias Utilizadas
 
 -   TypeScript
